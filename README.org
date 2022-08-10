@@ -1,0 +1,20 @@
+#+title: Awesome CUE
+
+* Articles and tutorials
+
+- [[https://cuelang.org/docs/tutorials/][Tutorials | CUE]]
+  - [[https://github.com/cue-lang/cue/blob/v0.4.3/doc/tutorial/kubernetes/README.md][cue/README.md at v0.4.3 · cue-lang/cue · GitHub]]
+- [[https://cuetorials.com/][Cuetorials]]
+- [[https://docs.dagger.io/1215/what-is-cue/][What is CUE? | Dagger]]
+
+* Videos
+
+- [[https://www.youtube.com/watch?v=Ey3ca0K2h2U][Using CUE with GitHub Actions - YouTube]]
+- [[https://www.youtube.com/watch?v=2B2PZTZlPJg][Cue Project on GerritHub and GitHub actions - YouTube]]
+
+* CUE for GitHub Actions workflows
+
+- [[https://github.com/staticaland/go-whaturl/tree/main/.github/cue][go-whaturl/.github/cue at main · staticaland/go-whaturl · GitHub]]
+- [[https://github.com/hofstadter-io/hof/tree/_dev/.github/workflows][hof/.github/workflows at _dev · hofstadter-io/hof · GitHub]]
+- [[https://github.com/cue-unity/unity/tree/main/internal/ci][unity/internal/ci at main · cue-unity/unity · GitHub]]
+
