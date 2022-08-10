@@ -10,6 +10,8 @@ First you should read [[https://cuelang.org/docs/install/][Getting Started | CUE
 go straight to the [[https://cuelang.org/docs/tutorials/tour/intro/][Introduction | CUE]] tutorial. Try to grok:
 
 - [[https://cuelang.org/docs/tutorials/tour/intro/constraints/][Constraints | CUE]]
+  - Constraints are for validation and, well, constraining possible values.
+  - Constraints can reduce boilerplate.
 - [[https://cuetorials.com/overview/foundations/#conjunctions][Foundations | Overview | Cuetorials]]
   - Explains conjunctions.
 - [[https://cuelang.org/docs/tutorials/tour/intro/schema/][Definitions | CUE]]
@@ -22,7 +24,12 @@ go straight to the [[https://cuelang.org/docs/tutorials/tour/intro/][Introductio
 You need to understand what =#= and =_#= means. You also need to understand =&=.
 
 You can import any YAML or JSON file with =cue import=. Wrap the data in a
-object and try to add some schema definitions to it.
+object and try to add some schema definitions to it. Run =cue export= or =cue
+eval= to see what you get.
+
+Any data you add will be exported by CUE as one big blob of data. You can use
+CUE's scripting layer to export different parts of the data. You could also use
+=jq= if you so desire.
 
 * Articles and tutorials
 
