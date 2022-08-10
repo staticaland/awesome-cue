@@ -1,5 +1,29 @@
 #+title: Awesome CUE
 
+* How I learned CUE
+
+I have heard some people say the CUE website is intimidating. I think this is
+because too many concepts are introduced at once, and things are not introduced
+in the best order. The menu on the left contains many topics.
+
+First you should read [[https://cuelang.org/docs/install/][Getting Started | CUE]] and install CUE. After this I would
+go straight to the [[https://cuelang.org/docs/tutorials/tour/intro/][Introduction | CUE]] tutorial. Try to grok:
+
+- [[https://cuelang.org/docs/tutorials/tour/intro/constraints/][Constraints | CUE]]
+- [[https://cuetorials.com/overview/foundations/#conjunctions][Foundations | Overview | Cuetorials]]
+  - Explains conjunctions.
+- [[https://cuelang.org/docs/tutorials/tour/intro/schema/][Definitions | CUE]]
+  - Introduces the conjunction operator =&= without having introduced it.
+- [[https://docs.dagger.io/1215/what-is-cue/][What is CUE? | Dagger]] is also interesting. They use the word *embedding* to
+  describe how the conjunction operator works. CUE works by
+  [[https://en.wikipedia.org/wiki/Composition_over_inheritance][Composition over
+  inheritance]], which is a very good thing.
+
+You need to understand what =#= and =_#= means. You also need to understand =&=.
+
+You can import any YAML or JSON file with =cue import=. Wrap the data in a
+object and try to add some schema definitions to it.
+
 * Articles and tutorials
 
 - [[https://cuelang.org/docs/tutorials/][Tutorials | CUE]]
