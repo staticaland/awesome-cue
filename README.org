@@ -39,11 +39,13 @@ CUE's scripting layer to export different parts of the data. You could also use
 
 * Videos
 
+- [[https://www.youtube.com/watch?v=fR_yApIf6jU][Hands-on Introduction to CUE | Rawkode Live - YouTube]]
 - [[https://www.youtube.com/watch?v=e4v1_2bSeGI][FOSDEM 2022 - A practical guide to CUE: patterns for everyday use - YouTube]]
 - [[https://www.youtube.com/watch?v=R9NWBp_OjMo][Pulumi YAML & CUE language with Paul Jolly | Modern Infrastructure - YouTube]]
 - [[https://www.youtube.com/watch?v=Ey3ca0K2h2U][Using CUE with GitHub Actions - YouTube]]
   - This video makes a lot more sense if you learn the syntax and concepts of
-    CUE first.
+    CUE first. [[https://github.com/cue-examples/github-actions-example][cue-examples/github-actions-example]] is the code for this
+    tutorial.
 - [[https://www.youtube.com/watch?v=2B2PZTZlPJg][Cue Project on GerritHub and GitHub actions - YouTube]]
 
 * CUE for GitHub Actions workflows
