@@ -39,8 +39,11 @@ CUE's scripting layer to export different parts of the data. You could also use
 
 * Audio and video
 
+- [[https://www.youtube.com/watch?v=jSRXobu1jHk][Large-Scale Engineering of Configuration with Unification (Marcel van
+  Lohuizen) - YouTube]]
 - [[https://changelog.com/gotime/163][CUE: Configuration superpowers for everyone with Marcel van Lohuizen, Paul
   Jolly, & Roger Peppe (Go Time #163) |> Changelog]]
+  - There is a transcript on this page.
 - [[https://www.youtube.com/watch?v=fR_yApIf6jU][Hands-on Introduction to CUE | Rawkode Live - YouTube]]
 - [[https://www.youtube.com/watch?v=e4v1_2bSeGI][FOSDEM 2022 - A practical guide to CUE: patterns for everyday use - YouTube]]
 - [[https://www.youtube.com/watch?v=R9NWBp_OjMo][Pulumi YAML & CUE language with Paul Jolly | Modern Infrastructure - YouTube]]
@@ -79,6 +82,8 @@ path:.github/ language:cue
 
 * See also
 
-- [[https://github.com/adieu/awesome-cue][GitHub - adieu/awesome-cue: A curated list of awesome CUE frameworks, libraries and software]]
-- [[https://github.com/zloeber/awesome-declarative-config][GitHub - zloeber/awesome-declarative-config: An awesome list of declaratively configured applications and engines.]]
+- [[https://github.com/adieu/awesome-cue][GitHub - adieu/awesome-cue: A curated list of awesome CUE frameworks,
+  libraries and software]]
+- [[https://github.com/zloeber/awesome-declarative-config][GitHub - zloeber/awesome-declarative-config: An awesome list of declaratively
+  configured applications and engines.]]
   - [[https://zloeber.github.io/awesome-declarative-config/][Awesome Declarative]]
