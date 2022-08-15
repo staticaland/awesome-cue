@@ -37,8 +37,10 @@ CUE's scripting layer to export different parts of the data. You could also use
 - [[https://cuetorials.com/][Cuetorials]]
 - [[https://docs.dagger.io/1215/what-is-cue/][What is CUE? | Dagger]]
 
-* Videos
+* Audio and video
 
+- [[https://changelog.com/gotime/163][CUE: Configuration superpowers for everyone with Marcel van Lohuizen, Paul
+  Jolly, & Roger Peppe (Go Time #163) |> Changelog]]
 - [[https://www.youtube.com/watch?v=fR_yApIf6jU][Hands-on Introduction to CUE | Rawkode Live - YouTube]]
 - [[https://www.youtube.com/watch?v=e4v1_2bSeGI][FOSDEM 2022 - A practical guide to CUE: patterns for everyday use - YouTube]]
 - [[https://www.youtube.com/watch?v=R9NWBp_OjMo][Pulumi YAML & CUE language with Paul Jolly | Modern Infrastructure - YouTube]]
@@ -47,12 +49,6 @@ CUE's scripting layer to export different parts of the data. You could also use
     CUE first. [[https://github.com/cue-examples/github-actions-example][cue-examples/github-actions-example]] is the code for this
     tutorial.
 - [[https://www.youtube.com/watch?v=2B2PZTZlPJg][Cue Project on GerritHub and GitHub actions - YouTube]]
-
-* CUE for GitHub Actions workflows
-
-- [[https://github.com/staticaland/go-whaturl/tree/main/.github/cue][go-whaturl/.github/cue at main · staticaland/go-whaturl · GitHub]]
-- [[https://github.com/hofstadter-io/hof/tree/_dev/.github/workflows][hof/.github/workflows at _dev · hofstadter-io/hof · GitHub]]
-- [[https://github.com/cue-unity/unity/tree/main/internal/ci][unity/internal/ci at main · cue-unity/unity · GitHub]]
 
 * Projects using CUE
 
@@ -65,6 +61,17 @@ path:.github/ language:cue
 
 - [[https://cs.github.com/?scopeName=All+repos&scope=&q=path%3A*.cue][CUE files]]
 - [[https://cs.github.com/?scopeName=All+repos&scope=&q=path%3A.github%2F+language%3Acue][CUE files in the .github directory]]
+
+** GitHub Actions workflows
+
+- [[https://github.com/staticaland/go-whaturl/tree/main/.github/cue][go-whaturl/.github/cue at main · staticaland/go-whaturl · GitHub]]
+- [[https://github.com/hofstadter-io/hof/tree/_dev/.github/workflows][hof/.github/workflows at _dev · hofstadter-io/hof · GitHub]]
+- [[https://github.com/cue-unity/unity/tree/main/internal/ci][unity/internal/ci at main · cue-unity/unity · GitHub]]
+- [[https://github.com/augustfengd/augustfeng.app][GitHub - augustfengd/augustfeng.app: Code for my personal cloud infrastructure.]]
+
+** Terraform
+
+- [[https://github.com/augustfengd/augustfeng.app][GitHub - augustfengd/augustfeng.app: Code for my personal cloud infrastructure.]]
 
 * Other languages
 
